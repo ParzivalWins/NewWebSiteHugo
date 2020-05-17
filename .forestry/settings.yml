@@ -32,7 +32,7 @@ sections:
   match: "**/*"
   new_doc_ext: yaml
 upload_dir: assets
-public_path: https://s3-us-west-2amazonaws.com/rickflairdrip1/assets
+public_path: https://s3-us-west-2.amazonaws.com/rickflairdrip1/assets
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
