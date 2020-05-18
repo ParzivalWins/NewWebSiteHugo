@@ -42,3 +42,4 @@ fields:
   label: Authors
 pages:
 - content/post/latest-post.md
+- content/post/snippet-test.md
